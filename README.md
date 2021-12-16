@@ -1,6 +1,7 @@
 # bashjumper介绍
-bashjumper是一个基于linux bash的命令行下的超轻量的跳板机。
-1.只支持key连接服务器，不支持密码连接，连接的key，默认/root/.ssh/id_rsa  ，用户默认root
+- bashjumper是一个基于linux bash的命令行下的超轻量的跳板机。
+- 1.只支持key连接服务器，不支持密码连接
+- 2.连接的key，默认/root/.ssh/id_rsa  ，用户默认root
 # bashjumper使用方法
 ## 安装
 ```shell
